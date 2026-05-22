@@ -1,0 +1,6 @@
+{
+  "name": "Dark Cipher",
+  "description": "Premium cyber security and anonymity VIP group sales page, themed in high-contrast monochrome with terminal aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
